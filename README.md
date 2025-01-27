@@ -2,6 +2,7 @@
 HTML5
 Estrutura básica do site.
 Uso de tags semânticas como <section>, <h1>, <h2>, <p>, <img>, <a> etc.
+
 ![Captura de tela 2025-01-27 204641](https://github.com/user-attachments/assets/0f7349be-44c2-43d6-90c7-5220e1c878ae)
 
 
